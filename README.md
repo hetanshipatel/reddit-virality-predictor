@@ -1,4 +1,4 @@
-# 🚀 Reddit Virality Predictor
+# 🚀 Virality Dynamics Model
 
 ## 📌 Overview
 
