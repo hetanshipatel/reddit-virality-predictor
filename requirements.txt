@@ -1,1 +1,9 @@
-
+praw
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+xgboost
+streamlit
