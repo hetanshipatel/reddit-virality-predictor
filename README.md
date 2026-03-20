@@ -131,7 +131,6 @@ reddit-virality-predictor/
 ├── data/
 ├── notebooks/
 ├── src/
-├── app/
 ├── README.md
 └── requirements.txt
 ```
